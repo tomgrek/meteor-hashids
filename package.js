@@ -2,7 +2,7 @@ Package.describe({
   name: 'timbrandin:hashids',
   version: '1.0.0',
   // Brief, one-line summary of the package.
-  summary: 'A small JavaScript class to generate YouTube-like hashes from one or many numbers. This is a client-side version of Node.js hashids',
+  summary: 'Hashids made simple for Meteor applications',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/timbrandin/meteor-hashids',
   // By default, Meteor will default to using README.md for documentation.
