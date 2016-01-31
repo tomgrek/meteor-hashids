@@ -1,5 +1,7 @@
 # hashids repackaged for Meteor.js
 
+meteor add tomgrek:hashids
+
 Forked from timbrandin:meteor-hashids
 
 Changed to get the shortest possible hash (not always 6 chars in length)
